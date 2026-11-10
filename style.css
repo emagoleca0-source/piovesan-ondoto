@@ -112,11 +112,11 @@ iframe {
     border-radius: 10px;
 }
  
-#equipe .card {
+#equipe .card-img {
     text-align: center;
 }
  
-#equipe .card {
+#equipe .card-img {
     width: 140px;
     height: 140px;
     border-radius: 50%;
