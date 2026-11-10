@@ -112,15 +112,19 @@ iframe {
     border-radius: 10px;
 }
  
-#equipe .card-img {
+#equipe .card {
+    height: 280px;
     text-align: center;
 }
- 
+
 #equipe .card-img {
     width: 140px;
     height: 140px;
     border-radius: 50%;
     object-fit: cover;
-    margin: 20px 10px;
-} 
-} 
+    margin: 20px auto 0;
+}
+
+#equipe .card-body {
+    padding: 10px;
+}
