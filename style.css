@@ -71,8 +71,8 @@ body {
 .card-img-top {
     height: 300px;
     width: 100%;
-    border-radius: 45%;
     object-fit: cover;
+    border-radius: 45%;
 }
  
 .card-title {
