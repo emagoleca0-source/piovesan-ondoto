@@ -71,7 +71,6 @@ body {
 .card-img-top {
     height: 300px;
     width: 100%;
-    object-fit: cover;
     border-radius: 45%;
 }
  
@@ -125,20 +124,4 @@ iframe {
     margin: 20px 10px;
 }
  
-@media (max-width: 768px) {
-    .carousel h1 {
-        font-size: 25px;
-    }
- 
-    .clearfix img {
-        width: 100%;
-        margin-bottom: 15px;
-    }
-
-    #equipe .card {
-        margin: 10px auto;
-        width: 100%;
-    }
-}
-
  
